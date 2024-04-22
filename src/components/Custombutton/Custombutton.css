@@ -1,0 +1,23 @@
+.mi-boton{
+    background: #F8ADDA;
+    padding: 2vh;
+    height: fit-content;
+    width: fit-content;
+    border-radius: 7px;
+    box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.5);
+}
+.mi-boton:hover{
+    background: #ec8ec7;
+}
+.mi-boton:active{
+    background: #ec3aa5;
+}
+.mi-boton.warning{
+    background: #ec3a3a;
+}
+.mi-boton.warning:active{
+    /**/
+}
+.mi-boton.warning{
+    background: #ec3a3a;
+}
